@@ -1,4 +1,4 @@
-# Trending YouTube Analysis (Pandas Project)
+# Trending YouTube Analysis (Python Project)
 
 This repository contains a Python (**pandas**) project that analyzes a multi-country dataset of **Trending YouTube videos**.
 The main deliverable is a Jupyter notebook that answers the assignment’s required queries and prints the corresponding outputs (tables and aggregations).
