@@ -46,4 +46,4 @@ To avoid biased counts caused by repeated appearances of the same video across m
 ## Repository contents
 
 - `ProgettoPS944958.ipynb` — main notebook (all queries + outputs)
-- `ProgettoPS944958.html` — HTML export (quick review without running code)
+- `ProgettoPS944958.html` — HTML export (quick review without running code) https://PeterSedik03.github.io/youtube-trending-analysis-Python/ProgettoPS944958.html
