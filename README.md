@@ -23,7 +23,7 @@ The notebook explores the dataset and computes statistics such as:
 
 1. Download and extract the dataset locally (CSV + category JSON files).
 2. Open `ProgettoPS944958.ipynb` in Jupyter.
-3. Update the dataset folder path in the notebook (the `cartella = ...` cell) to point to your local dataset directory.
+3. Update the dataset folder path in the notebook (the `folder = ...` cell) to point to your local dataset directory.
 4. Run all cells.
 
 ## Preprocessing note (Zstandard → CSV)
